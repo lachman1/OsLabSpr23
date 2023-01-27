@@ -16,3 +16,10 @@ task03
 task04
 
 ![Screenshot from 2023-01-27 11-13-33](https://user-images.githubusercontent.com/123716499/215021457-d7cadf31-7b1d-490c-9048-70ea8a46c1b8.png)
+
+task05
+
+
+x-special/nautilus-clipboard
+copy
+file:///home/student/Desktop/Screenshot%20from%202023-01-27%2011-21-59.png
