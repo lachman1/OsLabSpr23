@@ -22,5 +22,7 @@
 
 task_02
 
+ file:///home/lachman/Pictures/Screenshots/Screenshot%20from%202023-03-27%2014-46-57.png
+
  ![Screenshot from 2023-03-27 14-32-37](https://user-images.githubusercontent.com/123716499/227904295-f307056b-689d-4412-8a76-adde3fe25a70.png)
 
