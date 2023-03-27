@@ -26,3 +26,8 @@ task_02
 
  ![Screenshot from 2023-03-27 14-32-37](https://user-images.githubusercontent.com/123716499/227904295-f307056b-689d-4412-8a76-adde3fe25a70.png)
 
+task_03
+
+![Screenshot from 2023-03-27 15-09-23](https://user-images.githubusercontent.com/123716499/227914768-dfb0e0ec-1f8c-4dc3-bd2c-05c86c551494.png)
+
+![Screenshot from 2023-03-27 15-09-36](https://user-images.githubusercontent.com/123716499/227914825-9cf21350-1f37-4749-a49a-df42e829bffd.png)
